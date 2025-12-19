@@ -30,9 +30,6 @@ Tools & Libraries Used
 - Google Colab
 
 
-To Run
-Make sure you have Python installed. Install the required packages.!
-
 
 Output Screen Shots
 ![Screenshot (233)](https://github.com/user-attachments/assets/38d7c867-95a2-4441-9875-4ddcb1dbbae1)
